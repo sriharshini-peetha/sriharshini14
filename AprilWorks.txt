@@ -1,0 +1,50 @@
+APRIL WORKS 
+Assignments:-
+1) Architecture diagrams--------- (Shabbir & Yunus)
+2) CMP7243 D2   -----------------(Preetam )
+3) KF7011 individualtask---------(AKASH  PANDIAN &MANJU PADMA 4) SREE  MEDIKONDA)--2 copys
+5) use case diagram for KF7011 -Group task
+6) 7000ACC Financial Analysis and Decision Making-----(RamKumar)
+7) FIT9132 Oracle data devloper --------(Pranay)
+
+Dissertations:- 0
+
+upskilling:-
+Watching videos Deploy ML model in AWS 
+
+
+MAY WORKS
+
+1) ERD and Star schema ProxmoTV's
+2) tech1400 do the normaliztion diagrams---(ayisha)
+3) CMP7003 _Emerging Mobile Applications_report final----2copy's
+4) Mapping design Diagram -----(rahul & sathya)
+5) Expense tracker diagrams - activity, class , sequence diagrams 
+6) BUS5WB002 -------------(Sanjay)
+7) KF7011_ component diagram and classDiaram's for JAVA Task
+
+Dissertations:- 0
+
+upskilling:-
+learning aws upskilling
+
+
+
+JUNE MONTH WORKS
+
+Assignments:-
+
+BUS5WB_ Ass-3 
+
+task-1  NoSQL (Rahul,sanjay,sathya)
+
+task-2 autoML(Rahul,tejaswini,sanjay,Lavanya,sohith,SreeLakshmi)
+
+task-3 Databricks (Rahul)
+
+upskilling:-
+
+1.AZURE virtual machine & azure app services.
+2.Azure App Services Web app implementation.
+3.Deploying web application using azure app services.
+4.Network security groups in Azure and load balancers.
